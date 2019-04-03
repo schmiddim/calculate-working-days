@@ -1,9 +1,9 @@
-#Calculate Working Days
+# Calculate Working Days
 
 just a little testrepo to checkout jest
 
 
-##Usage
+## Usage
 ```
 yarn install
 ```
